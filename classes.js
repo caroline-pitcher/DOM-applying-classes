@@ -21,7 +21,7 @@ function one () {
 
 function two () {
 
-  var two = docoment.getElementById('two')
+  var two = document.getElementById('two')
 
 }// CREATE FUNCTION two HERE
 
